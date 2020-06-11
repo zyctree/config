@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "[Quiet Light]": {
+        "statusBar.background": "#F2F2F2",
+        "statusBar.noFolderBackground": "#F2F2F2",
+        "statusBar.debuggingBackground": "#F2F2F2",
+        "statusBarItem.remoteBackground": "#F2F2F2",
+        "statusBar.foreground": "#705697",
+        "statusBar.border": "#EDEDF5",
+    },
+  }
+}
