@@ -1,0 +1,1 @@
+, ((modm,               xK_Print     ), spawn "sleep 0.2; scrot -s -e 'mv $f ~/shared-folder' 2>>~/error")
