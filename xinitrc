@@ -1,0 +1,1 @@
+xloadimage -onroot -fullscreen /home/zyctree/my/github/config/wallpaper.png &
